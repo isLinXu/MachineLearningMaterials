@@ -1,6 +1,3 @@
----
-typora-root-url: pic
----
 
 # MachineLearningMaterials
 Machine learning references and reading notes
