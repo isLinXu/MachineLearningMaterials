@@ -213,4 +213,5 @@
 
 "注:(此处是在查询资料时发现的意外收获，整理如下)
 [6] AI Hand http://aihandbook.intsys.org.ru/index.php
+
 [16] Lectures and slides for the UvA Master AI course Machine Learning 1 https://uvaml1.github.io/

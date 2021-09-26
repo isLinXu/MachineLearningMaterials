@@ -3,13 +3,7 @@
 Machine learning references and reading notes
 周志华-西瓜书 参考文献及阅读笔记整理
 
-<img src="pic/watermelon.png" alt="watermelon" style="zoom:50%;" />
-
-<div style="text-align:center; width: 300px;solid 1px;">
-<img alt="" src="pic/watermelon.png" style="margin: 0 auto;" />
-</div>
-
-
+![watermelon_225x225](/home/linxu/Documents/MachineLearningMaterials/pic/watermelon_225x225.png)
 
 ### 一、仓库介绍及由来
 
