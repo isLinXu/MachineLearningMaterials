@@ -5,9 +5,9 @@ Machine learning references and reading notes
 
 <img src="pic/watermelon.png" alt="watermelon" style="zoom:50%;" />
 
-
-
-
+<div style="text-align:center; width: 300px;solid 1px;">
+<img alt="" src="pic/watermelon.png" style="margin: 0 auto;" />
+</div>
 
 
 
